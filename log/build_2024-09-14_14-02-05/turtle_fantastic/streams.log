@@ -1,0 +1,44 @@
+[0.011s] Invoking command in '/home/firm2204/exam1_ws/build/turtle_fantastic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/turtle_fantastic -- -j6 -l6
+[0.030s] [35m[1mConsolidate compiler generated dependencies of target cpp_node_test[0m
+[0.039s] [100%] Built target cpp_node_test
+[0.045s] [100%] Built target ament_cmake_python_copy_turtle_fantastic
+[0.147s] running egg_info
+[0.147s] writing turtle_fantastic.egg-info/PKG-INFO
+[0.147s] writing dependency_links to turtle_fantastic.egg-info/dependency_links.txt
+[0.147s] writing top-level names to turtle_fantastic.egg-info/top_level.txt
+[0.147s] reading manifest file 'turtle_fantastic.egg-info/SOURCES.txt'
+[0.149s] writing manifest file 'turtle_fantastic.egg-info/SOURCES.txt'
+[0.162s] [100%] Built target ament_cmake_python_build_turtle_fantastic_egg
+[0.167s] Invoked command in '/home/firm2204/exam1_ws/build/turtle_fantastic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/turtle_fantastic -- -j6 -l6
+[0.190s] Invoking command in '/home/firm2204/exam1_ws/build/turtle_fantastic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/turtle_fantastic
+[0.192s] -- Install configuration: ""
+[0.192s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/environment/pythonpath.sh
+[0.192s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/environment/pythonpath.dsv
+[0.192s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic-0.0.0-py3.10.egg-info
+[0.192s] -- Installing: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic-0.0.0-py3.10.egg-info/PKG-INFO
+[0.192s] -- Installing: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.192s] -- Installing: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.192s] -- Installing: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic-0.0.0-py3.10.egg-info/top_level.txt
+[0.192s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic
+[0.192s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic/__init__.py
+[0.192s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic/dummy_module.py
+[0.209s] Listing '/home/firm2204/exam1_ws/install/turtle_fantastic/local/lib/python3.10/dist-packages/turtle_fantastic'...
+[0.211s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/lib/turtle_fantastic/dummy_script.py
+[0.211s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/lib/turtle_fantastic/cpp_node_test
+[0.211s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/ament_index/resource_index/package_run_dependencies/turtle_fantastic
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/ament_index/resource_index/parent_prefix_path/turtle_fantastic
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/environment/ament_prefix_path.sh
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/environment/ament_prefix_path.dsv
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/environment/path.sh
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/environment/path.dsv
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/local_setup.bash
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/local_setup.sh
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/local_setup.zsh
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/local_setup.dsv
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/package.dsv
+[0.212s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/ament_index/resource_index/packages/turtle_fantastic
+[0.213s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/cmake/turtle_fantasticConfig.cmake
+[0.213s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/cmake/turtle_fantasticConfig-version.cmake
+[0.213s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtle_fantastic/share/turtle_fantastic/package.xml
+[0.215s] Invoked command in '/home/firm2204/exam1_ws/build/turtle_fantastic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/turtle_fantastic

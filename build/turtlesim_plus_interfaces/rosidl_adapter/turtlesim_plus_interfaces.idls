@@ -1,0 +1,4 @@
+/home/firm2204/exam1_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:msg/ScannerData.idl
+/home/firm2204/exam1_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:msg/ScannerDataArray.idl
+/home/firm2204/exam1_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:srv/GivePosition.idl
+/home/firm2204/exam1_ws/build/turtlesim_plus_interfaces/rosidl_adapter/turtlesim_plus_interfaces:action/GetData.idl

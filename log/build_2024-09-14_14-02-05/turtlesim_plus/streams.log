@@ -1,0 +1,105 @@
+[0.011s] Invoking command in '/home/firm2204/exam1_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/firm2204/exam1_ws/src/turtlesim_plus/turtlesim_plus -DCMAKE_INSTALL_PREFIX=/home/firm2204/exam1_ws/install/turtlesim_plus
+[0.056s] -- The C compiler identification is GNU 11.4.0
+[0.081s] -- The CXX compiler identification is GNU 11.4.0
+[0.085s] -- Detecting C compiler ABI info
+[0.124s] -- Detecting C compiler ABI info - done
+[0.127s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.127s] -- Detecting C compile features
+[0.128s] -- Detecting C compile features - done
+[0.129s] -- Detecting CXX compiler ABI info
+[0.180s] -- Detecting CXX compiler ABI info - done
+[0.183s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.184s] -- Detecting CXX compile features
+[0.184s] -- Detecting CXX compile features - done
+[0.189s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.259s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.296s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.312s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.314s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.317s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.324s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.330s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.349s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.350s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.383s] -- Found OpenSSL: /usr/lib/aarch64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.396s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.413s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.416s] -- Looking for pthread.h
+[0.450s] -- Looking for pthread.h - found
+[0.450s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.484s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.485s] -- Found Threads: TRUE  
+[0.510s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[0.582s] -- Configuring done
+[0.584s] -- Generating done
+[0.584s] -- Build files have been written to: /home/firm2204/exam1_ws/build/turtlesim_plus
+[0.589s] Invoked command in '/home/firm2204/exam1_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/firm2204/exam1_ws/src/turtlesim_plus/turtlesim_plus -DCMAKE_INSTALL_PREFIX=/home/firm2204/exam1_ws/install/turtlesim_plus
+[0.590s] Invoking command in '/home/firm2204/exam1_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/turtlesim_plus -- -j6 -l6
+[0.612s] Built target ament_cmake_python_copy_turtlesim_plus
+[0.704s] running egg_info
+[0.705s] creating turtlesim_plus.egg-info
+[0.705s] writing turtlesim_plus.egg-info/PKG-INFO
+[0.705s] writing dependency_links to turtlesim_plus.egg-info/dependency_links.txt
+[0.705s] writing top-level names to turtlesim_plus.egg-info/top_level.txt
+[0.705s] writing manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[0.706s] reading manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[0.706s] writing manifest file 'turtlesim_plus.egg-info/SOURCES.txt'
+[0.720s] Built target ament_cmake_python_build_turtlesim_plus_egg
+[0.724s] Invoked command in '/home/firm2204/exam1_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/turtlesim_plus -- -j6 -l6
+[0.735s] Invoking command in '/home/firm2204/exam1_ws/build/turtlesim_plus': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/turtlesim_plus
+[0.739s] -- Install configuration: ""
+[0.739s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/environment/pythonpath.sh
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/environment/pythonpath.dsv
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/PKG-INFO
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/SOURCES.txt
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/dependency_links.txt
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus-1.0.0-py3.10.egg-info/top_level.txt
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/entity.py
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/ros2_plugins.py
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map/map.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/humble.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/eloquent.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/crystal.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/otto.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/bouncy.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/galactic.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/rolling.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/dashing.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/ardent.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle/foxy.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object/pizza.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object/parcel.png
+[0.740s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/__init__.py
+[0.757s] Listing '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus'...
+[0.757s] Compiling '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/__init__.py'...
+[0.757s] Compiling '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/entity.py'...
+[0.757s] Listing '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image'...
+[0.758s] Listing '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/map'...
+[0.758s] Listing '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/object'...
+[0.758s] Listing '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/image/turtle'...
+[0.758s] Compiling '/home/firm2204/exam1_ws/install/turtlesim_plus/local/lib/python3.10/dist-packages/turtlesim_plus/ros2_plugins.py'...
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/lib/turtlesim_plus/turtlesim_plus_node.py
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/lib/turtlesim_plus/pizza_on_click.py
+[0.759s] -- Up-to-date: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/ament_index/resource_index/package_run_dependencies/turtlesim_plus
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/ament_index/resource_index/parent_prefix_path/turtlesim_plus
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/environment/ament_prefix_path.sh
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/environment/ament_prefix_path.dsv
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/environment/path.sh
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/environment/path.dsv
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.bash
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.sh
+[0.759s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.zsh
+[0.760s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/local_setup.dsv
+[0.760s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/package.dsv
+[0.760s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/ament_index/resource_index/packages/turtlesim_plus
+[0.760s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/cmake/turtlesim_plusConfig.cmake
+[0.760s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/cmake/turtlesim_plusConfig-version.cmake
+[0.760s] -- Installing: /home/firm2204/exam1_ws/install/turtlesim_plus/share/turtlesim_plus/package.xml
+[0.761s] Invoked command in '/home/firm2204/exam1_ws/build/turtlesim_plus' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/turtlesim_plus

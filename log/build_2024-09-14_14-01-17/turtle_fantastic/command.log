@@ -1,0 +1,6 @@
+Invoking command in '/home/firm2204/exam1_ws/build/turtle_fantastic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/firm2204/exam1_ws/src/turtle_fantastic -DCMAKE_INSTALL_PREFIX=/home/firm2204/exam1_ws/install/turtle_fantastic
+Invoked command in '/home/firm2204/exam1_ws/build/turtle_fantastic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/firm2204/exam1_ws/src/turtle_fantastic -DCMAKE_INSTALL_PREFIX=/home/firm2204/exam1_ws/install/turtle_fantastic
+Invoking command in '/home/firm2204/exam1_ws/build/turtle_fantastic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/turtle_fantastic -- -j6 -l6
+Invoked command in '/home/firm2204/exam1_ws/build/turtle_fantastic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/turtle_fantastic -- -j6 -l6
+Invoking command in '/home/firm2204/exam1_ws/build/turtle_fantastic': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/turtle_fantastic
+Invoked command in '/home/firm2204/exam1_ws/build/turtle_fantastic' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/turtle_fantastic
