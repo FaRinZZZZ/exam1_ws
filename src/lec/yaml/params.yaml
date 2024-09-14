@@ -1,5 +1,0 @@
-my_node:
-  ros__parameters:
-    max_velocity: 2.0
-    min_velocity: 15.5
-    use_sim_time: false
