@@ -1,0 +1,12 @@
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/uninstall.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/lec_uninstall.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/ament_cmake_python_copy_lec.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/ament_cmake_python_build_lec_egg.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/cpp_node_test.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/test.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/edit_cache.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/rebuild_cache.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/list_install_components.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/install.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/install/local.dir
+/home/firm2204/exam1_ws/build/lec/CMakeFiles/install/strip.dir

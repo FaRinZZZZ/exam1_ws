@@ -1,0 +1,39 @@
+[100%] Built target cpp_node_test
+[100%] Built target ament_cmake_python_copy_lec
+running egg_info
+writing lec.egg-info/PKG-INFO
+writing dependency_links to lec.egg-info/dependency_links.txt
+writing top-level names to lec.egg-info/top_level.txt
+reading manifest file 'lec.egg-info/SOURCES.txt'
+writing manifest file 'lec.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_lec_egg
+-- Install configuration: ""
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/pythonpath.sh
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/pythonpath.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/top_level.txt
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec/__init__.py
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec/dummy_module.py
+Listing '/home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec'...
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/lib/lec/dummy_script.py
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/lib/lec/cpp_node_test
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/package_run_dependencies/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/parent_prefix_path/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/ament_prefix_path.sh
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/path.sh
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/path.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.bash
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.sh
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.zsh
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.dsv
+-- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/package.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/packages/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/cmake/lecConfig.cmake
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/cmake/lecConfig-version.cmake
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/package.xml

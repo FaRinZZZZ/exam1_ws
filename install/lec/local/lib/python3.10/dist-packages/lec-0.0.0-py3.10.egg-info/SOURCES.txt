@@ -1,0 +1,7 @@
+setup.py
+lec/__init__.py
+lec/dummy_module.py
+lec.egg-info/PKG-INFO
+lec.egg-info/SOURCES.txt
+lec.egg-info/dependency_links.txt
+lec.egg-info/top_level.txt

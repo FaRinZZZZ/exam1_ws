@@ -1,0 +1,6 @@
+Invoking command in '/home/firm2204/exam1_ws/build/lec': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/firm2204/exam1_ws/src/lec -DCMAKE_INSTALL_PREFIX=/home/firm2204/exam1_ws/install/lec
+Invoked command in '/home/firm2204/exam1_ws/build/lec' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/firm2204/exam1_ws/src/lec -DCMAKE_INSTALL_PREFIX=/home/firm2204/exam1_ws/install/lec
+Invoking command in '/home/firm2204/exam1_ws/build/lec': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/lec -- -j6 -l6
+Invoked command in '/home/firm2204/exam1_ws/build/lec' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/lec -- -j6 -l6
+Invoking command in '/home/firm2204/exam1_ws/build/lec': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/lec
+Invoked command in '/home/firm2204/exam1_ws/build/lec' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/lec

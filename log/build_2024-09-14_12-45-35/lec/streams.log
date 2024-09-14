@@ -1,0 +1,59 @@
+[0.004s] Invoking command in '/home/firm2204/exam1_ws/build/lec': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/lec -- -j6 -l6
+[0.015s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.066s] -- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+[0.077s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.078s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.080s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.084s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.088s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.101s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.101s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.140s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.160s] -- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+[0.209s] -- Configuring done
+[0.213s] -- Generating done
+[0.214s] -- Build files have been written to: /home/firm2204/exam1_ws/build/lec
+[0.223s] [35m[1mConsolidate compiler generated dependencies of target cpp_node_test[0m
+[0.227s] [100%] Built target cpp_node_test
+[0.229s] [100%] Built target ament_cmake_python_copy_lec
+[0.308s] running egg_info
+[0.308s] writing lec.egg-info/PKG-INFO
+[0.308s] writing dependency_links to lec.egg-info/dependency_links.txt
+[0.309s] writing top-level names to lec.egg-info/top_level.txt
+[0.309s] reading manifest file 'lec.egg-info/SOURCES.txt'
+[0.310s] writing manifest file 'lec.egg-info/SOURCES.txt'
+[0.320s] [100%] Built target ament_cmake_python_build_lec_egg
+[0.324s] Invoked command in '/home/firm2204/exam1_ws/build/lec' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/firm2204/exam1_ws/build/lec -- -j6 -l6
+[0.338s] Invoking command in '/home/firm2204/exam1_ws/build/lec': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/lec
+[0.341s] -- Install configuration: ""
+[0.341s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/pythonpath.sh
+[0.341s] -- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/environment/pythonpath.dsv
+[0.341s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info
+[0.341s] -- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/PKG-INFO
+[0.341s] -- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.341s] -- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.342s] -- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/top_level.txt
+[0.342s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec
+[0.342s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec/__init__.py
+[0.342s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec/dummy_module.py
+[0.353s] Listing '/home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec'...
+[0.354s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/lib/lec/dummy_script.py
+[0.354s] -- Installing: /home/firm2204/exam1_ws/install/lec/lib/lec/test.py
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/lib/lec/cpp_node_test
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/package_run_dependencies/lec
+[0.355s] -- Installing: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/parent_prefix_path/lec
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/ament_prefix_path.sh
+[0.355s] -- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/environment/ament_prefix_path.dsv
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/path.sh
+[0.355s] -- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/environment/path.dsv
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.bash
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.sh
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.zsh
+[0.355s] -- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.dsv
+[0.355s] -- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/package.dsv
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/packages/lec
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/cmake/lecConfig.cmake
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/cmake/lecConfig-version.cmake
+[0.355s] -- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/package.xml
+[0.356s] Invoked command in '/home/firm2204/exam1_ws/build/lec' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/firm2204/exam1_ws/build/lec

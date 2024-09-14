@@ -1,0 +1,55 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found rclcpp: 16.0.10 (/opt/ros/humble/share/rclcpp/cmake)
+-- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+-- Using RMW implementation 'rmw_fastrtps_cpp' as default
+-- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/firm2204/exam1_ws/build/lec
+[35m[1mConsolidate compiler generated dependencies of target cpp_node_test[0m
+[100%] Built target cpp_node_test
+[100%] Built target ament_cmake_python_copy_lec
+running egg_info
+writing lec.egg-info/PKG-INFO
+writing dependency_links to lec.egg-info/dependency_links.txt
+writing top-level names to lec.egg-info/top_level.txt
+reading manifest file 'lec.egg-info/SOURCES.txt'
+writing manifest file 'lec.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_lec_egg
+-- Install configuration: ""
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/pythonpath.sh
+-- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/environment/pythonpath.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/PKG-INFO
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/SOURCES.txt
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/dependency_links.txt
+-- Installing: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec-0.0.0-py3.10.egg-info/top_level.txt
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec/__init__.py
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec/dummy_module.py
+Listing '/home/firm2204/exam1_ws/install/lec/local/lib/python3.10/dist-packages/lec'...
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/lib/lec/dummy_script.py
+-- Installing: /home/firm2204/exam1_ws/install/lec/lib/lec/test.py
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/lib/lec/cpp_node_test
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/package_run_dependencies/lec
+-- Installing: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/parent_prefix_path/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/ament_prefix_path.sh
+-- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/environment/path.sh
+-- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/environment/path.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.bash
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.sh
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.zsh
+-- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/local_setup.dsv
+-- Installing: /home/firm2204/exam1_ws/install/lec/share/lec/package.dsv
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/ament_index/resource_index/packages/lec
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/cmake/lecConfig.cmake
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/cmake/lecConfig-version.cmake
+-- Up-to-date: /home/firm2204/exam1_ws/install/lec/share/lec/package.xml
